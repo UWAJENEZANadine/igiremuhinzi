@@ -76,7 +76,7 @@ const AboutUs = () => {
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.5443313194805!2d30.073368114104507!3d-1.9345318372208409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca6a5f7eeb027%3A0xec192fd8663d497d!2sRwanda%20National%20Police%20Headquarters!5e0!3m2!1sen!2srw!4v1643276583105!5m2!1sen!2srw"
           style={{
             width: "100%",
-            height: "400px",
+            height: "350px",
             border: "0",
             allowfullscreen: "yes",
             loading: "lazy",
