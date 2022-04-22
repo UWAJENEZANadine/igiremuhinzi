@@ -16,7 +16,7 @@ const Footer = () => {
   return (
     <>
       <div className="container-fluid footer-container-footer ">
-        <div className="row rows justify-content-around">
+        <div className="row rows justify-content-around bg-dark">
           <div className="col-10 col-xs-10 cols1 col-sm-2 h-2 col-md-5 col-lg-3 cols1">
             <div className="logo">
               <img src={logo} style={{width:"100px", height:"100px"}}/>
