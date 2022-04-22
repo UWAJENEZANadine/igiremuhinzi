@@ -1,15 +1,11 @@
 import { useState } from "react";
 import "./singleproduct.css";
-import ReactDOM from 'react-dom';
+import ReactDOM from "react-dom";
 import agricultureProductApis from "../../src/services/agricultureProductApis";
 import HomeLayout from "../components/homeLayout";
-import {
- 
-  notification
-  
-} from "antd";
+import { notification } from "antd";
 
-const SingleProduct = ()=> {
+const SingleProduct = () => {
   const onFinish = (values) => {
     console.log("received values", values);
     agricultureProductApis.createOrders(values).then((res) => {
@@ -29,27 +25,27 @@ const SingleProduct = ()=> {
   };
   return (
     <HomeLayout>
-   <div className="container1">
-      <div className="form">
-    <form>
-      <div className="form-container">
-        <p>we are happy to serve you any choice of your product</p>
-      <label>Enter Quantity:
-        <input
-          type="text" 
-          
-        />
-      </label>
-      <button className="button2"style={{marginLeft:"50%",marginTop:"12%"}}><a href= "/order">Send</a></button>
+      <div className="container1">
+        <div className="form">
+          <form>
+            <div className="form-container">
+              <p>we are happy to serve you any choice of your product</p>
+              <label>
+                Enter Quantity:
+                <input type="text" />
+              </label>
+              <button
+                className="button2"
+                style={{ marginLeft: "50%", marginTop: "12%" }}
+              >
+                <a href="/order">Send</a>
+              </button>
+            </div>
+          </form>
+        </div>
       </div>
-    </form>
-    </div>
-    </div>
     </HomeLayout>
-   
-  )
-
+  );
 };
-
 
 export default SingleProduct;
