@@ -1,0 +1,35 @@
+[
+    {
+        "firstName":"UWAJENEZA",
+        "lastName":"Nadine",
+        "email":"nadineu840@gmail.com",
+        "phone":"+0786774605",
+        "status":"pending"
+        
+
+    },
+    {
+        "firstName":"DUSHIME",
+        "lastName":"Diane",
+        "email":"dianeu840@gmail.com",
+        "phone":"+07860460334",
+        "status":"pending" 
+
+    },
+    {
+        "firstName":"ANGE",
+        "lastName":"Mervelle",
+        "email":"angeeu840@gmail.com",
+        "phone":"+0786776534",
+        "status":"pending" 
+
+    },
+    {
+        "firstName":"UWASE",
+        "lastName":"LIliane",
+        "email":"lilianeu840@gmail.com",
+        "phone":"+0786778900", 
+        "status":"pending" 
+
+    }
+]

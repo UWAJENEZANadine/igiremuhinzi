@@ -1,0 +1,137 @@
+/* .product-container{
+    background-color: black;
+    height: 50%;
+    width: 50%;
+}  */
+
+/* .animation{
+    height:130vh;
+    background-image: url(https://www.eac.int/images/Press_Releases/coffee.jpg);
+    width: 100%;
+     align-items: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+      /* display: flex; */
+
+/* margin-top: 50px; */
+/* margin-left: 120px; */
+/* animation:animation 30s infinite  ;
+      }
+        @keyframes animation { */
+/* 40%{
+                background:url(https://thumbs.dreamstime.com/b/african-farmer-man-standing-organic-farm-wearing-native-clothes-agriculture-cultivation-concept-192460086.jpg)
+              } */
+/* 25%{
+            background:url(https://www.eatthis.com/wp-content/uploads/sites/4/2021/06/fruit.jpg?quality=82&strip=all)
+          } 
+           40%{
+            background:url(https://p.scooper.news/v2-EagleNews/Eagle-NewsImage/detail/20201207/1ab2a084d743d4bb7939666392123634.webp) 
+          } 
+            65%{
+            background:url(https://bakerpedia.com/wp-content/uploads/2021/09/Whole-Grain-Wheat-Flour-e1632990518585-400x400.jpg)
+           }       
+            80%{
+            background:url(https://static.toiimg.com/photo/86814605.cms)
+          }
+           95%{
+            background:url(https://freerangestock.com/sample/39839/vegetables-market.jpg)
+          }
+          80%{
+            background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmu1Xay-8tSniMRxmm83zkR2j0q9hs_HU3lbgDmXEssW-j6SfvKGx6Q8CxontrGAxNnQ&usqp=CAU)}
+} */
+
+/* .description {
+  height: 120vh;
+  width: 100%;
+  background-color: rgb(226, 247, 248);
+  text-align: center;
+  color: rgb(1, 1, 17); */
+  /* margin-left: 40%; */
+/* } */
+.images-slide {
+  height: 70vh;
+  margin-left: 340px;
+}
+.quote-div-container {
+  background-image: url("https://coffeezoid.com/imgs/uploads/best-robusta-coffee.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 60vh;
+  color: white;
+  /* justify-content: space-between; */
+  /* display: flex; */
+  /* justify-content: space-between; */
+
+  /* align-items: center; */
+  margin-bottom: 20px;
+  padding: 80px;
+}
+.quote-div-container h1{
+  color: whitesmoke;
+  font-weight: 650
+  ;font-family: sans-serif
+  ;
+ 
+
+}
+.quote-div{
+  width: 100%;
+  align-items: center;
+}
+.quote-div p{
+  
+  text-align: center;
+  font-size: larger;
+  
+  
+}
+
+.container-corousel {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.caption-images h5 {
+  color:black;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: -200px;
+  font-weight: 800;
+  font-size: 60px;
+  padding: 30px;
+  margin-left: 0px;
+}
+.caption-images p {
+  font-weight: 400;
+  margin-top: 20px;
+  margin-right: 60px;
+  padding: 0px 30px 50px 60px;
+  color: white;
+  font-size: 20px;
+}
+.button1 {
+  background-color: rgba(255, 255, 255, 0.753);
+  width: 160px;
+  height: 8vh;
+  cursor: pointer;
+  text-align: center;
+  
+  
+  margin-top: 10px;
+  font-size: larger;
+  border-radius: 15px;
+  margin-left: 45%;
+  padding: 20px;
+}
+.button1:hover {
+  background-color: rgba(105, 104, 104, 0.808);
+ 
+}
+.button1 a {
+  color: black;
+  text-decoration: none;
+}
+.button1 a:hover
+{
+  color: rgb(138, 74, 10);
+}

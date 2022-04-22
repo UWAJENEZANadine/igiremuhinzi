@@ -1,0 +1,53 @@
+.card-container{
+
+    /* background:#057177; */
+    height:50vh;
+    width:70%;
+    margin: 10px;
+    display: flex;
+    color: black;
+    margin-left: 15%;
+    box-shadow: 5px 5px 5px rgb(56, 24, 2);
+    background-color: whitesmoke;
+    margin-top: 20px;
+border: 5px rgba(141, 66, 16, 0.849) ;
+    
+}
+/* .card-cover{
+    height: 50vh;
+    width: 100%;
+    background-color: blue; */
+
+.image{
+    width: 45%;
+    height: 50vh;
+    overflow: hidden;
+}
+.other{
+    width: 50%;
+    height: 50vh;
+    color: black;
+}
+.other a{
+    margin-left: 200px;
+    margin-top: -60px;
+    font-size: 20px;
+    font-weight: 800;
+    
+}
+.other h1{
+    color:black;
+}
+.other p{
+    color:black;
+    margin-left: 30px;
+    font-family: sans-serif;
+}
+.read button {
+    color: black;
+    margin-bottom: 5px;
+    margin-left: 40%;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+
+} 

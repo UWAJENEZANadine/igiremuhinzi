@@ -1,0 +1,131 @@
+.aboutUs-container{
+     background-image: url("https://i.gifer.com/KzMm.gif");
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100%;
+     height: 50vh;
+     padding-top: 100px;
+     
+    
+}
+.aboutus-page{
+    height: 250vh;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.aboutUs-container h1{
+    text-align: center;
+  color: whitesmoke;
+text-decoration:underline;
+  
+
+}
+.aboutUs-container p{
+    color: whitesmoke;
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+    
+
+
+}
+
+.about-header h1{
+    text-align: center;
+    color:black;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.about1-container p{
+    width: 90%;
+    font-size: 25px;
+    
+    
+
+}
+.antdd-style{
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+
+
+.location-container{
+    /* display: flex; */
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px 0px 100px;
+    margin-top: 55px;
+    
+
+/* }
+.container{
+    background-color: brown;
+    height: 100vh; */
+}
+
+.horizontal-line{
+    border: 4px solid rgb(119, 69, 3);
+    height:10vh;
+   
+}
+iframe{
+    margin-bottom: 20px;
+}
+.bout-col1{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px  rgba(21, 37, 37, 0.842);
+
+    background-color:whitesmoke;
+    /* width: 25%; */
+    
+    margin-left: 10px;
+    padding: 20px;
+    font-family: sans-serif;
+    
+    text-align: center;
+
+
+    
+
+    
+    
+}
+.about-col2{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px  rgba(21, 37, 37, 0.842);
+
+    background-color: whitesmoke;
+
+    width: 30%;
+    margin-left: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 40px;
+
+
+
+    
+ 
+
+}
+.about-col3{
+    border-radius: 20px;
+    
+    box-shadow: 5px 5px 5px  rgba(21, 37, 37, 0.842);
+
+    background-color: whitesmoke;
+    width: 30%;
+    padding: 20px;
+    font-family: sans-serif;
+    margin-left: 10px;
+    /* margin-right: 10px;
+    margin-top: 5px; */
+    text-align: center;
+
+
+
+}
+
+
+

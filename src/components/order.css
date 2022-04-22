@@ -1,0 +1,34 @@
+.submit{
+   background-image: url("https://coffeezoid.com/imgs/uploads/best-robusta-coffee.jpg");
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.submit1 h1{
+    color: cornsilk;
+}
+
+.submit1{
+   
+  color: cornsilk;
+    animation: moveleft 9s;
+    visibility: hidden;
+    animation-fill-mode: forwards;
+    padding: 10px;
+    
+
+}
+@keyframes moveleft{
+    0%{
+        transform: translateX(-100px);
+        visibility: visible;
+    }
+    100%{
+        transform: translateX(0);
+        visibility: visible;
+    }
+}

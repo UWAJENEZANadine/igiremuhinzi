@@ -1,0 +1,79 @@
+[
+    {
+      "_id": "6205776776282af30b0d113b",
+      "title": "Angelique Mukamana",
+      "description": "Best selling farmer from URASHOBOYE MUHINZI",
+      
+      "available_quantity": "170kg",
+      "image": [
+        "https://www.newtimes.co.rw/sites/default/files/main/articles/2021/10/29/immaculce-mukarusanga-a-smallholder-farmer-from-nyaruguru-district_photo_wfp-large.jpg"
+      ],
+      "posted_date": "2019/11/16",
+      "expired_date": "2018/10/14",
+      "price": "$8/kg",
+      "seller_phone": "25078679087",
+      "seller": {
+        "_id": "6205744c54be98f1a4a7eeb3",
+        "firstName": "kalisa",
+        "lastName": "paul",
+        "phone": "+250788738616",
+        "email": "seller745@gmail.com",
+        "address": "gikondo",
+        "gender": "male"
+      },
+      "createdAt": "2022-02-10T20:36:55.971Z",
+      "updatedAt": "2022-02-10T20:36:55.971Z",
+      "__v": 0
+    },
+    {
+      "_id": "6205777a76282af30b0d113e",
+      "title": " Rouise BAGWIRE",
+      "description": "Fruits in Rwanda is planted on hillsides at a high altitude of between 1,900m and 2,500m, and on well-drained marshes at an altitude of between 1,550m and 1,800m. Production of tea has increased steadily, from 60 Metric Tons of tea in 1958 to about 30,000 Metric Tons annually today.",
+      "available_quantity": "170kg",
+      "image": [
+        "https://i.pinimg.com/1200x/58/a5/16/58a516cc7f829d7b646dd3c17d0c16d1.jpg"
+      ],
+      "posted_date": "2019/11/16",
+      "expired_date": "2018/10/14",
+      "price": "$8/kg",
+      "seller_phone": "25078679087",
+      "seller": {
+        "_id": "6205744c54be98f1a4a7eeb3",
+        "firstName": "kalisa",
+        "lastName": "paul",
+        "phone": "+250788738616",
+        "email": "seller745@gmail.com",
+        "address": "gikondo",
+        "gender": "male"
+      },
+      "createdAt": "2022-02-10T20:37:14.923Z",
+      "updatedAt": "2022-02-10T20:37:14.923Z",
+      "__v": 0
+    },
+    {
+      "_id": "6205779b76282af30b0d1141",
+      "title": "Vincet HATEGEKIMANA",
+      "description": "Vegetables in Rwanda is planted on hillsides at a high altitude of between 1,900m and 2,500m, and on well-drained marshes at an altitude of between 1,550m and 1,800m. Production of tea has increased steadily, from 60 Metric Tons of tea in 1958 to about 30,000 Metric Tons annually today.",
+      "available_quantity": "170kg",
+      "image": [
+        "https://international-alert.org/wp-content/uploads/2021/09/Rwanda-Alexis_848x500.jpg"
+      ],
+      "posted_date": "2019/11/16",
+      "expired_date": "2018/10/14",
+      "price": "$8/kg",
+      "seller_phone": "25078679087",
+      "seller": {
+        "_id": "6205744c54be98f1a4a7eeb3",
+        "firstName": "kalisa",
+        "lastName": "paul",
+        "phone": "+250788738616",
+        "email": "seller745@gmail.com",
+        "address": "gikondo",
+        "gender": "male"
+      },
+      "createdAt": "2022-02-10T20:37:47.664Z",
+      "updatedAt": "2022-02-10T20:37:47.664Z",
+      "__v": 0
+    }
+    
+  ]

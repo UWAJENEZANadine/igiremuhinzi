@@ -1,0 +1,39 @@
+
+  .signin-container h1{
+     text-align: center;
+     font-weight: 400;
+     font-family: sans-serif;
+
+  }
+  .register-model-form{
+    margin-top: 170px;
+    
+   
+  }
+  .signUp-page{
+    height: 65vh;
+    background-color: #057177;
+  }
+  .button2{
+    width: 120px;
+    background-color: rgba(255, 255, 255, 0.753);
+    height: 8vh;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 4%;
+    border-radius: 15px;
+    padding: 1%;
+    color: black;
+  }
+  .button2:hover{
+    background-color: rgba(105, 104, 104, 0.808);
+    color: rgb(138, 74, 10);
+    border: rgba(255, 255, 255, 0.753);
+  }
+  .login-form a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+  }
+  
