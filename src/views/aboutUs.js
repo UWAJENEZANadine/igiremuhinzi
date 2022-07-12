@@ -40,7 +40,7 @@ const AboutUs = () => {
           <div className=" col-10 col-sm-5 col-md-4 mb-3 about-col2">
             <StarOutlined 
               className="antdd-style"
-              style={{ fontSize: "3em" }}
+              style={{fontSize: "3em"}}
             />
             <p><h1>Our Values</h1><br/>
               Providing quality agricultural products. We supply quality fruit
