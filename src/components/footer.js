@@ -105,7 +105,7 @@ const Footer = () => {
             <p>
               {" "}
               <FontAwesomeIcon icon={faHome} style={{ fontSize: "16px" }} />
-              &nbsp;&nbsp;&nbsp;kacyiru, 549 IRO
+              &nbsp;&nbsp;&nbsp;kacyiru, 549 
             </p>
             <p>
               {" "}
@@ -118,17 +118,17 @@ const Footer = () => {
             <p>
               {" "}
               <FontAwesomeIcon icon={faPhone} style={{ fontSize: "16px" }} />
-              &nbsp;&nbsp;&nbsp;<a href="tel:0786774605">+250786774605 </a>
+              &nbsp;&nbsp;&nbsp;<a href="tel:0786774605">+250 786774605 </a>
             </p>
             <p>
               <FontAwesomeIcon icon={faPrint} style={{ fontSize: "16px" }} />
-              &nbsp;&nbsp;&nbsp;<a href="tel:0785627690">+250 785627690</a>
+              &nbsp;&nbsp;&nbsp;<a href="tel:0785627690">+250 783147260</a>
             </p>
           </div>
           <hr className="big-line" />
           <div className="sub-footer">
             <p style={{ margin: "0 auto", alignItems: "center" }}>
-              &copy; 2022 Copyright: <a href="">Software Chasers</a>
+              &copy; 2022 Copyright: <a href="">Nadine UWAJENEZA</a>
             </p>
           </div>
         </div>
