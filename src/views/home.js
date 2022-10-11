@@ -1,6 +1,6 @@
 import React from "react";
 import HomeLayout from "../components/homeLayout";
-import { Carousel } from "react-bootstrap";
+import Carousel from 'react-bootstrap/Carousel';
 import "./home.css";
 import topThreeProduct from "../assets/constants/topThree.json"
 const Home = () => {
