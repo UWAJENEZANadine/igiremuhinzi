@@ -12,8 +12,12 @@ const Header = () => {
           </div>
 
           {/* <div id="google_translate_element"></div> */}
-
+         
           <div className="nav-nav">
+          <input type ="checkbox" id = "check" />
+            <label for ="check" className="checkbtn">
+              <i className="fas fa-bars"></i>
+            </label>
             <h1 style={{ height: "120px" }}>IGIRE MUHINZI</h1>
             <div className="nav-container">
               <a href="home">Home</a>

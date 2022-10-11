@@ -173,7 +173,13 @@
      color: rgb(12, 39, 129);
    }
 
+   @media only screen and (max-width: 765px) {
+    .col-10 {
+      width: 100%;
+    }
 
+
+   }
 
 
 
